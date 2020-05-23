@@ -12,6 +12,11 @@ const extLib = require('asimplenpmpackage');
 console.log(extLib.Welcome(`Sashen`));
 ```
 
+### Output
+```
+Hello Sashen. Hope you having a nice day
+```
+
 ## References
 This library was based on reading the below sources
 * [How to make a beautiful, tiny npm package and publish it](https://www.freecodecamp.org/news/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78/)
